@@ -53,7 +53,7 @@ I used a **Chi-Square Test of Independence** to test the null hypothesis ($H_0$)
 
 * **Contingency Table:**
     
-   ![Contingency Table]()
+   ![Contingency Table](https://github.com/maryamsh62/Python-Portfolio-Project---AB-Test-Analysis/blob/master/Contingency%20Table.png)
    
 
 * **Result:** The test returned a p-value of `1.99e-13`, rejecting the null hypothesis.
