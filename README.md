@@ -70,7 +70,7 @@ The Ad group achieved a **2.55%** conversion rate compared to the PSA group's **
 * **Best Time:** 4 PM (Hour 16).
 * **Weakest Day:** Saturdays showed a dip in engagement across both groups.
 
-####  Insight 3: The "Rule of Repetition"
+####  Insight 3: The "Rule of Repetition."
 I analyzed the `total ads` column to understand the impact of frequency.
 * **Converted Users** saw an average of **83.9 ads**.
 * **Non-Converted Users** saw an average of **23.3 ads**.
