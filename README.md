@@ -63,7 +63,7 @@ I used a **Chi-Square Test of Independence** to test the null hypothesis ($H_0$)
 ####  Insight 1: The Ad Works (Conversion Lift)
 The Ad group achieved a **2.55%** conversion rate compared to the PSA group's **1.79%**. This is a relative lift of **43%**, proving the campaign's effectiveness.
 
-![Conversion Rate]()
+![Conversion Rate](https://github.com/maryamsh62/Python-Portfolio-Project---AB-Test-Analysis/blob/master/Conversion%20Rate.png)
 
 ####  Insight 2: Peak Times (Day & Hour)
 * **Best Day:** Mondays (~3.3% conversion rate).
